@@ -1,6 +1,6 @@
 # Dataset Publishing Platforms (Open Source)
 
-![](./images/data platforms.png)
+![](/images/data platforms.png)
 
 In order to save anyone else looking for this time, I thought I'd put together a quick Markdown list of dataset publishing platforms. I'm authoring this on **April 17th 2024** while I'm still very much in the process of trying out different solutions. As with all static documentation, this will eventually become outdated (unless I regularly update it!)
 
